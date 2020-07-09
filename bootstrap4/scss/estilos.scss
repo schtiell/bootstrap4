@@ -1,0 +1,13 @@
+//--------------------------------------------
+//          CODIGO DE COLORES
+//--------------------------------------------
+$principal: silver;
+$linea: blue;
+$secundario: orange;
+
+
+body{
+    background: $principal;
+    color: $secundario;
+    border: 1px solid $linea;
+}
